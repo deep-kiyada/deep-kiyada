@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deep-kiyada.
-- 👀 I’m interested in web development, python, cyber security & content writing. 
-- 🌱 I’m currently learning django & machine learning.
+- 👀 I’m interested in web development, python & blogging. 
+- 🌱 I’m currently exploring React JS & Django.
 - 💞️ I’m looking for good opportunity to work on.
 - 📫 You can contact me through mail, My Email id is deepkiyada7@gmail.com
 
